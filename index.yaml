@@ -21,6 +21,6 @@ entries:
     name: pinot-control-plane
     type: application
     urls:
-    - https://charts.datainfra.io/pinot-control-plane-0.0.8.tgz
+    - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.8.tgz
     version: 0.0.8
 generated: "2023-05-02T23:59:39.208719+05:30"
