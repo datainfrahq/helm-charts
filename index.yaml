@@ -12,4 +12,15 @@ entries:
     urls:
     - https://charts.datainfra.io/helm-releases/druid-operator-0.3.0.tgz
     version: 0.3.0
-generated: "2023-05-02T22:30:11.551743+05:30"
+  pinot-control-plane:
+  - apiVersion: v2
+    appVersion: v0.0.8
+    created: "2023-05-02T23:59:39.211859+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d469995caee43b74920bf232d3486f3a8f1efd23a61615e7eb326148f0634895
+    name: pinot-control-plane
+    type: application
+    urls:
+    - https://charts.datainfra.io/pinot-control-plane-0.0.8.tgz
+    version: 0.0.8
+generated: "2023-05-02T23:59:39.208719+05:30"
