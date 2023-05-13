@@ -3,44 +3,45 @@ entries:
   druid-operator:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2023-05-13T22:30:11.556165+05:30"
+    created: "2023-05-13T09:28:57.809619+05:30"
     description: Druid Kubernetes Operator
-    digest: f8e4f53284e404efd9ef7cab9ef9548abc5f045dbcad2fc56cc8cbfdc6130b6a
+    digest: 3f9a7d904557720923c51220d4f9981051c59d0e3f1712b06b8c422b401232a2
     icon: https://www.apache.org/logos/res/druid/druid-1.png
     name: druid-operator
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/druid-operator-0.3.1.tgz
+    - https://charts.datainfra.io/helm-releases/helm-releases/druid-operator-0.3.1.tgz
+    version: 0.3.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-05-02T22:30:11.556165+05:30"
+    created: "2023-05-13T09:28:57.807031+05:30"
     description: Druid Kubernetes Operator
     digest: f8e4f53284e404efd9ef7cab9ef9548abc5f045dbcad2fc56cc8cbfdc6130b6a
     icon: https://www.apache.org/logos/res/druid/druid-1.png
     name: druid-operator
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/druid-operator-0.3.0.tgz
+    - https://charts.datainfra.io/helm-releases/helm-releases/druid-operator-0.3.0.tgz
     version: 0.3.0
   pinot-control-plane:
   - apiVersion: v2
     appVersion: v0.0.9
-    created: "2023-05-04T17:07:05.513973+05:30"
+    created: "2023-05-13T09:28:57.811876+05:30"
     description: A Helm chart for Kubernetes
     digest: 1c494f82cbf4e8687702778c7f9ff2bf08ad2305fcc2495dbdd50e738bba8a89
     name: pinot-control-plane
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.9.tgz
+    - https://charts.datainfra.io/helm-releases/helm-releases/pinot-control-plane-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v2
     appVersion: v0.0.8
-    created: "2023-05-02T23:59:39.211859+05:30"
+    created: "2023-05-13T09:28:57.810753+05:30"
     description: A Helm chart for Kubernetes
     digest: d469995caee43b74920bf232d3486f3a8f1efd23a61615e7eb326148f0634895
     name: pinot-control-plane
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.8.tgz
+    - https://charts.datainfra.io/helm-releases/helm-releases/pinot-control-plane-0.0.8.tgz
     version: 0.0.8
-generated: "2023-05-04T17:07:05.507177+05:30"
+generated: "2023-05-13T09:28:57.802037+05:30"
