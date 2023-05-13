@@ -10,7 +10,7 @@ entries:
     name: druid-operator
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/helm-releases/druid-operator-0.3.1.tgz
+    - https://charts.datainfra.io/helm-releases/druid-operator-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: v1.1.0
@@ -21,7 +21,7 @@ entries:
     name: druid-operator
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/helm-releases/druid-operator-0.3.0.tgz
+    - https://charts.datainfra.io/helm-releases/druid-operator-0.3.0.tgz
     version: 0.3.0
   pinot-control-plane:
   - apiVersion: v2
@@ -32,7 +32,7 @@ entries:
     name: pinot-control-plane
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/helm-releases/pinot-control-plane-0.0.9.tgz
+    - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v2
     appVersion: v0.0.8
@@ -42,6 +42,6 @@ entries:
     name: pinot-control-plane
     type: application
     urls:
-    - https://charts.datainfra.io/helm-releases/helm-releases/pinot-control-plane-0.0.8.tgz
+    - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.8.tgz
     version: 0.0.8
 generated: "2023-05-13T09:28:57.802037+05:30"
