@@ -44,4 +44,19 @@ entries:
     urls:
     - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.8.tgz
     version: 0.0.8
+  altinity-clickhouse-operator:
+  - apiVersion: v2
+    appVersion: 0.21.1
+    created: "2023-06-02T12:29:08.831506+05:30"
+    description: Helm chart to deploy [altinity-clickhouse-operator](https://github.com/Altinity/clickhouse-operator).  The
+      ClickHouse Operator creates, configures and manages ClickHouse clusters running
+      on Kubernetes.
+    digest: 13e15053d95688a298a61765b70c9fad18410598c6f5863e8ad820f876c98cff
+    home: https://github.com/Altinity/clickhouse-operator
+    icon: https://logosandtypes.com/wp-content/uploads/2020/12/altinity.svg
+    name: clickhouse-operator
+    type: application
+    urls:
+    - https://charts.datainfra.io/helm-releases/altinity-clickhouse-operator-0.21.1.tgz
+    version: 0.21.1
 generated: "2023-05-13T09:28:57.802037+05:30"
