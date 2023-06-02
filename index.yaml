@@ -44,7 +44,7 @@ entries:
     urls:
     - https://charts.datainfra.io/helm-releases/pinot-control-plane-0.0.8.tgz
     version: 0.0.8
-clickhouse-operator:
+  clickhouse-operator:
   - apiVersion: v2
     appVersion: 0.21.1
     created: "2023-06-02T12:29:08.831506+05:30"
