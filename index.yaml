@@ -59,4 +59,19 @@ entries:
     urls:
     - https://charts.datainfra.io/helm-releases/altinity-clickhouse-operator-0.21.1.tgz
     version: 0.21.1
+  tigera-operator:
+  - apiVersion: v2
+    created: "2023-06-07T18:00:38.858134+05:30"
+    description: Installs the Tigera operator for Calico
+    digest: 4ca42feab73a1aa06097ec24eba87b8599c18e7a23b0364de39f9a4877994530
+    home: https://projectcalico.docs.tigera.io/about/about-calico
+    icon: https://projectcalico.docs.tigera.io/images/felix_icon.png
+    name: tigera-operator
+    sources:
+    - https://github.com/projectcalico/calico/tree/master/calico/_includes/charts/tigera-operator
+    - https://github.com/tigera/operator
+    - https://github.com/projectcalico/calico
+    urls:
+    - https://charts.datainfra.io/helm-releases/tigera-operator-v0.0.tgz
+    version: 0.0
 generated: "2023-05-13T09:28:57.802037+05:30"
