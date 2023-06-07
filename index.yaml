@@ -72,6 +72,6 @@ entries:
     - https://github.com/tigera/operator
     - https://github.com/projectcalico/calico
     urls:
-    - https://charts.datainfra.io/helm-releases/tigera-operator-v0.0.tgz
+    - https://charts.datainfra.io/helm-releases/tigera-operator-v3.26.1.tgz
     version: 3.26.1
 generated: "2023-05-13T09:28:57.802037+05:30"
