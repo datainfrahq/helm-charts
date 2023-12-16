@@ -45,6 +45,17 @@ entries:
     urls:
     - https://charts.datainfra.io/helm-releases/druid-operator-0.3.0.tgz
     version: 0.3.0
+  parseable:
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2023-12-16T15:55:08.182512+05:30"
+    description: A Helm chart for Parseable Custom Resource
+    digest: a4f2766352cb677ec69c75b8963e9827da7ea54b8e6a841c4a44a1db7e87df9a
+    name: parseable
+    type: application
+    urls:
+    - https://charts.datainfra.io/helm-releases/parseable-0.0.1.tgz
+    version: 0.0.1
   pinot-control-plane:
   - apiVersion: v2
     appVersion: v0.0.9
