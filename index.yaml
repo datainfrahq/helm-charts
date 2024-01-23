@@ -21,6 +21,16 @@ entries:
     version: 0.0.2
     urls:
     - https://charts.datainfra.io/helm-releases/chi-0.0.2.tgz
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-23T06:26:44.05987+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 89f5563863c2f3d629c4ba10510f540e1b12f064ccdf19a3c6a9b1a78a547760
+    name: chi
+    type: application
+    version: 0.0.3
+    urls:
+    - https://charts.datainfra.io/helm-releases/chi-0.0.3.tgz
   druid-operator:
   - apiVersion: v2
     appVersion: v1.2.1
