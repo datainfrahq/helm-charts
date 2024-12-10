@@ -43,6 +43,17 @@ entries:
     - https://charts.datainfra.io/helm-releases/chi-0.0.4.tgz
   druid-operator:
   - apiVersion: v2
+    appVersion: v1.2.5
+    created: "2024-12-10T23:48:51.673632+01:00"
+    description: Druid Kubernetes Operator
+    digest: aae76bb3df304c3591a008fa1dfcca8476d890460c6a20d9816747693ecdac83
+    icon: https://www.apache.org/logos/res/druid/druid-1.png
+    name: druid-operator
+    type: application
+    urls:
+    - https://charts.datainfra.io/helm-releases/druid-operator-0.3.8.tgz
+    version: 0.3.8
+  - apiVersion: v2
     appVersion: v1.2.4
     created: "2024-09-11T09:18:24.092715+02:00"
     description: Druid Kubernetes Operator
